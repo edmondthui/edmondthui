@@ -14,3 +14,5 @@ Please check out my projects below!
 [![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmondthui)](https://edmondhui.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmondthui&layout=compact)](https://edmondhui.com)
+
+![](https://komarev.com/ghpvc/?username=edmondthui)
