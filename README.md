@@ -7,7 +7,7 @@ Please check out my projects below!
 
 ## My Goals
 - [x] Graduate App Academy (Coding Bootcamp)
-- [x] Get Software Developer Position
+- [x] Obtain Software Developer Position
 - [ ] Become the Tech Lead
 - [ ] Retire
 
