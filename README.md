@@ -15,4 +15,4 @@ Please check out my projects below!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmondthui&layout=compact)](https://edmondhui.com)
 
-![](https://komarev.com/ghpvc/?username=edmondthui)
+[![](https://komarev.com/ghpvc/?username=edmondthui)](https://edmondhui.com)
