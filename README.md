@@ -1,4 +1,5 @@
-## Welcome, I am Edmond Hui, you are visitor ![Visitor Count](https://profile-counter.glitch.me/edmondthui/count.svg)
+| Hey I am Edmond Hui, you are visitor | ![Visitor Count](https://profile-counter.glitch.me/edmondthui/count.svg) |
+|--------------------------------------|--------------------------------------------------------------------------|
 
 [![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmondthui)](https://github.com/edmondthui)
 
