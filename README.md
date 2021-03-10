@@ -1,4 +1,4 @@
-# Hey, my name is Edmond Hui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Edmond Hui
 Currently, I am a software engineer at Couple. 
 
 To succeed in my career switch I spent 80 - 100 hours a week learning new technologies and implementing them in projects. 
