@@ -9,7 +9,7 @@ Please check out my projects below!
 - [x] Graduate App Academy (Coding Bootcamp)
 - [x] Obtain Software Developer Position
 - [ ] Become the Tech Lead
-- [ ] Retire
+- [ ] Contribute to Open Source Projects
 
 [![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmondthui)](https://edmondhui.com)
 
