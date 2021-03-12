@@ -11,8 +11,9 @@ Please check out my projects below!
 - [ ] Become the Tech Lead
 - [ ] Contribute to Open Source Projects
 
-[![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmondthui)](https://edmondhui.com)
+<a href="https://github.com/edmondthui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondthui&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmondthui&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmondthui&layout=compact)](https://edmondhui.com)
-
-[![](https://komarev.com/ghpvc/?username=edmondthui)](https://edmondhui.com)
+[![](https://komarev.com/ghpvc/?username=edmondthui)](https://github.com/edmondthui)
