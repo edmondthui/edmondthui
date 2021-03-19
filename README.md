@@ -5,7 +5,7 @@ To succeed in my career switch I spent 80 - 100 hours a week learning new techno
 
 Please check out my projects below!
 
-## My Goals
+## My goals
 - [x] Graduate App Academy (Coding Bootcamp)
 - [x] Obtain Software Developer Position
 - [ ] Become the Tech Lead
