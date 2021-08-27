@@ -8,7 +8,7 @@ Please check out my projects below!
 ## My goals
 - [x] Graduate App Academy (Coding Bootcamp)
 - [x] Obtain Software Developer Position
-- [ ] Become the Tech Lead
+- [x] Become Tech Lead
 - [ ] Contribute to Open Source Projects
 
 <a href="https://github.com/edmondthui">
