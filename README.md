@@ -9,7 +9,7 @@ Please check out my projects below!
 - [x] Graduate App Academy (Coding Bootcamp)
 - [x] Obtain Software Developer Position
 - [x] Become Tech Lead
-- [ ] Start a Business
+- [ ] Start a Startup
 - [ ] Contribute to Open Source Projects
 
 <a href="https://github.com/edmondthui">
