@@ -10,7 +10,7 @@ Please check out my projects below!
 - [x] Obtain Software Developer Position
 - [x] Become Tech Lead
 - [ ] Start a Startup
-- [ ] Contribute to Open Source Projects
+- [x] Contribute to Open Source Projects
 
 <a href="https://github.com/edmondthui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondthui&show_icons=true" />
