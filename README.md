@@ -13,7 +13,7 @@ Please check out my projects below!
 - [x] Contribute to Open Source Projects
 
 <a href="https://github.com/edmondthui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondthui&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondthui&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmondthui&layout=compact" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondthui" />
 </a>
