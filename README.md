@@ -1,16 +1,16 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Edmond Hui
-Currently, I am a software engineer at Couple. 
+Currently, I am a software engineer at ExecOnline. 
 
 To succeed in my career switch I spent 80 - 100 hours a week learning new technologies and implementing them in projects. 
 
 Please check out my projects below!
 
-## My goals
+<!-- ## My goals
 - [x] Graduate App Academy (Coding Bootcamp)
 - [x] Obtain Software Developer Position
 - [x] Become Tech Lead
 - [ ] Start a Startup
-- [x] Contribute to Open Source Projects
+- [x] Contribute to Open Source Projects -->
 
 <a href="https://github.com/edmondthui">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmondthui&show_icons=true" /> -->
@@ -18,7 +18,7 @@ Please check out my projects below!
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondthui" />
 </a>
 
-## Github's game of commits
+<!-- ## Github's game of commits
 Run this code snippet in the browser console on a Github profile and it will turn your commits into Conway's Game of Life!
 
 ```
@@ -26,4 +26,4 @@ Run this code snippet in the browser console on a Github profile and it will tur
 ```
 View the source code [here](https://github.com/edmondthui/game-of-commits)!
 
-[![](https://komarev.com/ghpvc/?username=edmondthui)](https://github.com/edmondthui)
+[![](https://komarev.com/ghpvc/?username=edmondthui)](https://github.com/edmondthui) -->
