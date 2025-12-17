@@ -1,5 +1,5 @@
 # Hey, my name is Edmond Hui
-Currently, I am a software engineer at ExecOnline. 
+Currently, I am a software engineer at Capital One. 
 
 <!-- To succeed in my career switch I spent 80 - 100 hours a week learning new technologies and implementing them in projects. 
  -->
